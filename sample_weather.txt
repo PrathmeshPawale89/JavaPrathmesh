@@ -1,0 +1,8 @@
+Mumbai 32 24 12
+Pune 30 20 10
+Delhi 38 26 15
+Chennai 34 28 18
+Bangalore 28 18 8
+Hyderabad 33 22 11
+Nagpur 37 25 14
+
